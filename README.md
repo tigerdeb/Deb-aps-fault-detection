@@ -28,6 +28,11 @@ wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_
 
 
 '''
+this is done for jenkins webhook connecting as a trial
+'''
+
+
+'''
 This changes made in neurolab
 '''
 
